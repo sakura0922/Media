@@ -2,7 +2,9 @@
   "id": "abc23.png",
   "name": "abc23.png",
   "description": "3333",
-  "tags": [],
-  "updatedAt": "2025-10-13T07:48:24.422Z",
-  "createdAt": "2025-10-13T07:48:24.422Z"
+  "tags": [
+    "动漫"
+  ],
+  "updatedAt": "2025-10-13T07:48:39.751Z",
+  "createdAt": "2025-10-13T07:48:39.751Z"
 }
