@@ -1,6 +1,8 @@
 {
   "name": "123.png",
   "description": "A test ",
-  "tags": [],
-  "updatedAt": "2025-11-09T01:12:27.094Z"
+  "tags": [
+    "动漫"
+  ],
+  "updatedAt": "2025-11-09T01:13:05.260Z"
 }
