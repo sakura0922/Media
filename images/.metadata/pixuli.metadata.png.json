@@ -2,10 +2,12 @@
   "id": "e70a8dacb05aa706544f0bbf6bcb48ffef1e4ad3",
   "name": "pixuli.png",
   "description": "",
-  "tags": [],
-  "size": 2691034,
+  "tags": [
+    "简历项目截图"
+  ],
+  "size": 0,
   "width": 3360,
   "height": 2100,
-  "updatedAt": "2025-11-11T01:23:51.887Z",
+  "updatedAt": "2025-11-11T11:00:09.527Z",
   "createdAt": "2025-11-11T01:23:51.887Z"
 }
