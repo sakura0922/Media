@@ -3,12 +3,11 @@
   "name": "04.jpg",
   "description": "This is a Test",
   "tags": [
-    "动漫",
-    "风景"
+    "动漫"
   ],
-  "size": 352476,
+  "size": 0,
   "width": 1528,
   "height": 1080,
-  "updatedAt": "2025-11-11T02:09:56.400Z",
+  "updatedAt": "2025-11-11T02:14:04.627Z",
   "createdAt": "2025-11-11T02:09:56.400Z"
 }
