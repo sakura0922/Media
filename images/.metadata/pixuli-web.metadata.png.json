@@ -1,13 +1,13 @@
 {
   "id": "e70a8dacb05aa706544f0bbf6bcb48ffef1e4ad3",
   "name": "pixuli-web.png",
-  "description": "Pixuli Web 端，使用 react + tailwindcss + zustand 开发",
+  "description": "🌐 Pixuli Web - 智能图片管理 Web 应用",
   "tags": [
     "简历项目截图"
   ],
   "size": 0,
   "width": 3360,
   "height": 2100,
-  "updatedAt": "2025-11-11T23:42:39.940Z",
+  "updatedAt": "2025-11-11T23:50:15.401Z",
   "createdAt": "2025-11-11T11:06:35.049Z"
 }
