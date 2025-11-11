@@ -2,10 +2,12 @@
   "id": "5c63df1dbfb1de63160c97db2e5aad6a21640cbd",
   "name": "pixuli-mobile.png",
   "description": "",
-  "tags": [],
-  "size": 862710,
+  "tags": [
+    "简历项目截图"
+  ],
+  "size": 0,
   "width": 546,
   "height": 1222,
-  "updatedAt": "2025-11-11T11:12:45.920Z",
+  "updatedAt": "2025-11-11T11:13:01.537Z",
   "createdAt": "2025-11-11T11:12:45.920Z"
 }
