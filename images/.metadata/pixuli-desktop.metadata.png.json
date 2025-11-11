@@ -1,13 +1,13 @@
 {
   "id": "7a414915cc9acdf6f0094b2b4eedfbe544f12378",
   "name": "pixuli-desktop.png",
-  "description": "Pixuli 桌面端，使用 react + electron 开发",
+  "description": "🖥️ Pixuli Desktop：基于 Electron + React + Rust 的跨平台桌面应用，提供图片管理、批量处理、WebP 压缩和 GitHub 云端存储",
   "tags": [
     "简历项目截图"
   ],
   "size": 0,
   "width": 2348,
   "height": 1518,
-  "updatedAt": "2025-11-11T23:42:59.961Z",
+  "updatedAt": "2025-11-11T23:52:50.249Z",
   "createdAt": "2025-11-11T11:06:06.681Z"
 }
