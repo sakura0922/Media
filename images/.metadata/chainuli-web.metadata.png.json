@@ -1,11 +1,11 @@
 {
   "id": "4e69aadd29f4dccbdd95c155ad211fa54073f978",
   "name": "chainuli-web.png",
-  "description": "⚡ 智能 Web3 开发工具 - 基于 Vue3 + Electron + WASM 的本地区块链仿真、合约调试、钱包功能模拟",
+  "description": "⚡ 智能 Web3 开发工具（Web 端） - 基于 Vue3 +  WASM 的本地区块链仿真、合约调试、钱包功能模拟",
   "tags": [],
-  "size": 966844,
+  "size": 0,
   "width": 3360,
   "height": 1856,
-  "updatedAt": "2025-11-11T23:46:40.908Z",
+  "updatedAt": "2025-11-11T23:47:56.227Z",
   "createdAt": "2025-11-11T23:46:40.908Z"
 }
