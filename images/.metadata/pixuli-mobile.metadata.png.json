@@ -1,13 +1,13 @@
 {
   "id": "5c63df1dbfb1de63160c97db2e5aad6a21640cbd",
   "name": "pixuli-mobile.png",
-  "description": "📱 Pixuli Mobile - 智能图片管理移动应用",
+  "description": "📱 Pixuli Mobile：基于 React Native 的跨平台移动应用，支持拍照上传、AI 分析、图片处理和 GitHub 云端同步。",
   "tags": [
     "简历项目截图"
   ],
   "size": 0,
   "width": 546,
   "height": 1222,
-  "updatedAt": "2025-11-11T23:49:41.103Z",
+  "updatedAt": "2025-11-11T23:53:20.443Z",
   "createdAt": "2025-11-11T11:12:45.920Z"
 }
