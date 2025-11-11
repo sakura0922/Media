@@ -2,10 +2,12 @@
   "id": "4bc6a89c46dc8d4c01c4999ec26859cbfd283306",
   "name": "GenArt.png",
   "description": "",
-  "tags": [],
-  "size": 2643428,
+  "tags": [
+    "简历项目截图"
+  ],
+  "size": 0,
   "width": 3360,
   "height": 2100,
-  "updatedAt": "2025-11-11T01:22:30.971Z",
+  "updatedAt": "2025-11-11T10:59:55.235Z",
   "createdAt": "2025-11-11T01:22:30.971Z"
 }
