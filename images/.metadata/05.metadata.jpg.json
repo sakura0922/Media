@@ -1,11 +1,13 @@
 {
   "id": "b3497974751a4d14a2d321bf9ea0e0aac4182a07",
   "name": "05.jpg",
-  "description": "",
-  "tags": [],
+  "description": "A test for batch upload",
+  "tags": [
+    "动漫"
+  ],
   "size": 475850,
   "width": 1904,
   "height": 1080,
-  "updatedAt": "2025-11-11T02:01:01.574Z",
-  "createdAt": "2025-11-11T02:01:01.574Z"
+  "updatedAt": "2025-11-13T12:31:52.830Z",
+  "createdAt": "2025-11-13T12:31:52.830Z"
 }
