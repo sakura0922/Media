@@ -3,11 +3,12 @@
   "name": "05.jpg",
   "description": "A test for batch upload",
   "tags": [
-    "动漫"
+    "动漫",
+    "风景"
   ],
-  "size": 292272,
+  "size": 0,
   "width": 1904,
   "height": 1080,
-  "updatedAt": "2025-11-14T12:50:46.902Z",
+  "updatedAt": "2025-11-14T13:02:38.109Z",
   "createdAt": "2025-11-14T12:50:46.902Z"
 }
