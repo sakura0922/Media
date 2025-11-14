@@ -3,11 +3,12 @@
   "name": "10.jpg",
   "description": "A test for batch upload",
   "tags": [
-    "动漫"
+    "动漫",
+    "美少女"
   ],
-  "size": 171536,
+  "size": 0,
   "width": 1500,
   "height": 1061,
-  "updatedAt": "2025-11-14T12:51:07.897Z",
+  "updatedAt": "2025-11-14T13:01:32.972Z",
   "createdAt": "2025-11-14T12:51:07.897Z"
 }
